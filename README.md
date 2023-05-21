@@ -41,7 +41,7 @@ Aussi, les données des particules fines à l'extérieur de la station (EXT_PM10
 *Visualisation du niveau des polluants dans la station sur toute l'année.*
 ![screenshot](src/screen1.png)
 *Comparaison du niveau de particules fines à l'intérieur par rapport à celui à l'extérieur sur toute l'année.*
-![screenshot](src/screen1.png)
+![screenshot](src/screen2.png)
 
 ## Résultats
 
