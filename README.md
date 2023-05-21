@@ -17,6 +17,8 @@
 
 La qualité de l'air dans les stations de métro est un enjeu majeur de santé publique. AirATP est né de la volonté de surveiller et d'analyser la qualité de l'air à l'intérieur de la station de métro Châtelet, l'une des plus fréquentées de Paris. L'application fournit des visualisations interactives permettant de suivre les niveaux de plusieurs polluants, avec une attention particulière pour les particules fines (PM10).
 
+**Démo en ligne** : [https://airatp.shinyapps.io/airatp/](https://airatp.shinyapps.io/airatp/)
+
 ## Installation et Configuration
 
 1. Assurez-vous d'avoir le package Shiny installé sur votre machine. 
