@@ -31,9 +31,11 @@ Après avoir lancé l'application, vous pouvez visualiser les concentrations de 
 
 ## Données
 
-Les données proviennent de l'API RATP, qui fournit chaque heure les mesures de divers polluants, y compris le monoxyde d'azote, le dioxyde d'azote et les particules fines (PM10), ainsi que d'autres informations météorologiques. Cette application se concentre sur les mesures des particules fines (PM10).
+Les données proviennent de l'[API RATP](https://data.ratp.fr/page/temps-reel/), qui fournit chaque heure les mesures de divers polluants, y compris le monoxyde d'azote, le dioxyde d'azote et les particules fines (PM10), ainsi que d'autres informations météorologiques. Cette application se concentre sur les mesures des particules fines (PM10).
 
-Aussi, les données des particules fines à l'extérieur de la station (EXT_PM10) proviennent de l'API Air Parif.
+Aussi, les données des particules fines à l'extérieur de la station (EXT_PM10) proviennent de l'[API Air Parif](https://data-airparif-asso.opendata.arcgis.com/datasets/2022-pm10/explore).
+
+
 
 ## Captures d'Écran
 *Visualisation du niveau des polluants dans la station sur toute l'année.*
@@ -56,4 +58,4 @@ Une limitation notable de ce projet est qu'il se concentre uniquement sur la sta
 Pour toute question ou commentaire, n'hésitez pas à me contacter :
 
 **Nawfel KERARSI**\
-[nawfel.kerarsi@universite-paris-saclay.fr](nawfel.kerarsi@universite-paris-saclay.fr)
+[nawfel.kerarsi@universite-paris-saclay.fr](mailto:nawfel.kerarsi@universite-paris-saclay.fr)
